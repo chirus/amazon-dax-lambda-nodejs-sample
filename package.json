@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "amazon-dax-client": "^1.1.0",
-    "aws-sdk": "^2.207.0"
+    "aws-sdk": "^2.585.0"
   }
 }
